@@ -43,3 +43,6 @@ Uns foram feitos em Console e outros em Windows Forms, mas todos no Visual Studi
 
 <h6>➜ <b>Projeto 13:</b> Aprendendo a criar métodos. Calculando a soma, o maior, o menor e a média das entradas fornecidas.</h6>
 <img src="https://user-images.githubusercontent.com/99284224/199755655-7320441d-cdbc-47b9-9255-ca1074421ac2.png" width="280px">
+
+<h6>➜ <b>Projeto 14:</b> Aprendendo a criar métodos. Calculando o cubo, par e ímpar, e se é positivo/negativo ou zero.</h6>
+<img src="https://user-images.githubusercontent.com/99284224/199756607-5bb8f880-694e-454c-a390-ccb41e511ce7.png" width="280px">
