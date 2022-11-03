@@ -19,3 +19,6 @@ Uns foram feitos em Console e outros em Windows Forms, mas todos no Visual Studi
 
 <h6>➜ <b>Projeto 06:</b> Digitar sua idade e imprimir de modos diferentes. </h6>
 <img src="https://user-images.githubusercontent.com/99284224/199644421-deb2f556-1b2a-477e-9f39-92d5c6e3d483.png" width="280px">
+
+<h6>➜ <b>Projeto 07:</b> Recebe como entrada a quantidade de questões existentes em uma prova aplicada para um aluno e o número de questões que acertou. Imprime o número de questões que errou, a porcentagem de acertos e a porcentagem de erros.</h6>
+<img src="https://user-images.githubusercontent.com/99284224/199645109-38b3f934-29d1-456e-b014-77ff63586ace.png" width="280px">
