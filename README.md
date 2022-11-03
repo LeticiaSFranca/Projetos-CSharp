@@ -7,3 +7,9 @@ Uns foram feitos em Console e outros em Windows Forms, mas todos no Visual Studi
 
 <h6>➜ <b>Projeto 02:</b> Ler dois valores inteiros A e B. Se os valores forem iguais deverá se somar dois, caso contrário, multiplique A por B. Ao final qualquer um dos cálculos deve-se atribuir o resultado para uma variável C e mostrar seu conteúdo na tela.</h6>
 <img src="https://user-images.githubusercontent.com/99284224/199641882-959ce13f-c1f0-4add-b719-5c11e1ec85a1.png" width="280px">
+
+<h6>➜ <b>Projeto 03:</b> Calcular a área e o perímetro de um retângulo.</h6>
+<img src="https://user-images.githubusercontent.com/99284224/199642709-9028d739-6e70-46a4-bbb6-3279e1007939.png" width="280px">
+
+<h6>➜ <b>Projeto 04:</b> Fazer a contagem de moedas e mostrar o valor.</h6>
+<img src="https://user-images.githubusercontent.com/99284224/199642432-87a72e3a-e124-4537-9dbd-19302f681550.png" width="280px">
