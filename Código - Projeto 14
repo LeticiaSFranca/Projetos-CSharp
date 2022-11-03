@@ -1,0 +1,71 @@
+using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+
+namespace AulaClasse
+{
+    public partial class Form2 : Form
+    {
+        public Form2()
+        {
+            InitializeComponent();
+            //Código by: Letícia França
+        }
+
+        private void btnLimpar_Click(object sender, EventArgs e)
+        {
+            txt1numero.Clear();
+            txtResultado.Clear();
+        }
+
+        Metodos obj = new Metodos();
+        private void btnCubo_Click(object sender, EventArgs e)
+        {
+            double num1, cubo;
+
+            num1 = double.Parse(txt1numero.Text);
+
+            cubo = obj.CUBO(num1);
+            txtResultado.Text = cubo.ToString();
+        }
+
+        private void btnParImpar_Click(object sender, EventArgs e)
+        {
+            int num1;
+            string ParImpar;
+
+            num1 = int.Parse(txt1numero.Text);
+
+            ParImpar = obj.ParOuImpar(num1);
+            txtResultado.Text = ParImpar.ToString();
+        }
+
+        private void btnPosNegZero_Click(object sender, EventArgs e)
+        {
+            double num1;
+            string PNZ;
+
+            num1 = double.Parse(txt1numero.Text);
+
+            PNZ = obj.PNZ(num1);
+            txtResultado.Text = PNZ.ToString();
+        }
+
+        private void btnVoltar_Click(object sender, EventArgs e)
+        {
+            Form1 objFormulario = new Form1();
+            objFormulario.Show();
+        }
+
+        private void btnSair_Click(object sender, EventArgs e)
+        {
+            this.Close();
+        }
+    }
+}
