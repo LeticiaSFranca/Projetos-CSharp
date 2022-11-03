@@ -37,3 +37,6 @@ Uns foram feitos em Console e outros em Windows Forms, mas todos no Visual Studi
 
 <h6>➜ <b>Projeto 11:</b> Ver se a idade fornecida, é maior ou menor de idade.</h6>
 <img src="https://user-images.githubusercontent.com/99284224/199741201-42c74d7d-6d3f-49d7-a8cf-bb6a887af714.png" width="280px">
+
+<h6>➜ <b>Projeto 12:</b> É uma atividade proposta pela professora na sala, relacionada com profissões e seus salários, e assim como as outras atividades, deixarei o código da mesma para que possam conferir.</h6>
+<img src="https://user-images.githubusercontent.com/99284224/199751485-28191f07-5a2e-4aab-afe7-4cf7fd97a9ae.png" width="280px">
