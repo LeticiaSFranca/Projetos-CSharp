@@ -31,3 +31,6 @@ Uns foram feitos em Console e outros em Windows Forms, mas todos no Visual Studi
 
 <h6>➜ <b>Projeto 09:</b> 1ª Tentativa de uma calculadora.</h6>
 <img src="https://user-images.githubusercontent.com/99284224/199646413-e3c9c8be-81e1-446b-a9da-6a43002f415b.png" width="280px">
+
+<h6>➜ <b>Projeto 10:</b> Ver se a nota do aluno foi maior ou igual a 7, se sim, ele foi aprovado, se não, reprovado..</h6>
+<img src="https://user-images.githubusercontent.com/99284224/199737767-fcf6d218-6a84-408a-b673-1a3d56624c9b.png" width="280px">
