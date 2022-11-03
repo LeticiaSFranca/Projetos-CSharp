@@ -2,6 +2,9 @@
 Todos esses projetos aqui publicados, são atividades feitas em sala na matéria de Lógica e Programação.
 Uns foram feitos em Console e outros em Windows Forms, mas todos no Visual Studio.
 
+<h6>➜ <b>Projeto 00:</b> Conhecendo o C# de maneira livre.</h6>
+<img src="https://user-images.githubusercontent.com/99284224/199645885-18f85e7f-0531-492d-9d40-0fd1a3c160d0.png" width="280px">
+
 <h6>➜ <b>Projeto 01:</b> Ler os valores de três números quaisquer fornecidos como entrada. Somar o 1º número digitado e o 3º. Fazer a média dos 3 números digitados e depois a porcentagem de cada número em relação ao total.</h6>
 <img src="https://user-images.githubusercontent.com/99284224/199640516-0927dda7-8919-4d3a-88fd-6b58090feb1b.png" width="280px">
 
@@ -22,3 +25,9 @@ Uns foram feitos em Console e outros em Windows Forms, mas todos no Visual Studi
 
 <h6>➜ <b>Projeto 07:</b> Recebe como entrada a quantidade de questões existentes em uma prova aplicada para um aluno e o número de questões que acertou. Imprime o número de questões que errou, a porcentagem de acertos e a porcentagem de erros.</h6>
 <img src="https://user-images.githubusercontent.com/99284224/199645109-38b3f934-29d1-456e-b014-77ff63586ace.png" width="280px">
+
+<h6>➜ <b>Projeto 08:</b> Soma de 2 números.</h6>
+<img src="https://user-images.githubusercontent.com/99284224/199646164-9349e738-0758-482a-a864-223d2ec1226b.png" width="280px">
+
+<h6>➜ <b>Projeto 09:</b> 1ª Tentativa de uma calculadora.</h6>
+<img src="https://user-images.githubusercontent.com/99284224/199646413-e3c9c8be-81e1-446b-a9da-6a43002f415b.png" width="280px">
