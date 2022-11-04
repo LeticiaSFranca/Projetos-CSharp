@@ -58,3 +58,6 @@ Uns foram feitos em Console e outros em Windows Forms, mas todos no Visual Studi
 
 <h6>➜ <b>Projeto 15:</b> Ler o valor do veículo adquirido por um cliente da Agência Highcar e o código do plano de pagamento escolhido, conforme a tabela. E calcular o total dos juros cobrados, o valor total do financiamento e o valor de cada parcela.</h6>
 <img src="https://user-images.githubusercontent.com/99284224/199880526-7115f5c8-4f22-4655-bce9-51096d731f7f.png" width="280px">
+
+<h6>➜ <b>Projeto 16:</b> Ler o código, nome, classe e o número de horas em que um determinado funcionário trabalhou. Calcular e imprimir o valor a ser pago ao funcionário.</h6>
+<img src="https://user-images.githubusercontent.com/99284224/199883301-218d943a-4e48-4874-b4fe-756e63dd74fd.png" width="280px">
