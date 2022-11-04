@@ -46,3 +46,6 @@ Uns foram feitos em Console e outros em Windows Forms, mas todos no Visual Studi
 
 <h6>➜ <b>Projeto 14:</b> Aprendendo a criar métodos. Calculando o cubo, par e ímpar, e se é positivo/negativo ou zero.</h6>
 <img src="https://user-images.githubusercontent.com/99284224/199756607-5bb8f880-694e-454c-a390-ccb41e511ce7.png" width="280px">
+
+<h6>➜ <b>Console 01:</b> Aprendendo a programar C# no console.</h6>
+<img src="https://user-images.githubusercontent.com/99284224/199879057-ebaf6c76-db61-46e1-a140-2f0f180b2539.png" width="280px">
