@@ -55,3 +55,6 @@ Uns foram feitos em Console e outros em Windows Forms, mas todos no Visual Studi
 
 <h6>➜ <b>Console 03:</b> Aprendendo a programar C# no console - Part. 3.</h6>
 <img src="https://user-images.githubusercontent.com/99284224/199879808-7f6177f2-b701-48ba-8aab-9d0570eb1175.png" width="400px">
+
+<h6>➜ <b>Projeto 15:</b> Ler o valor do veículo adquirido por um cliente da Agência Highcar e o código do plano de pagamento escolhido, conforme a tabela. E calcular o total dos juros cobrados, o valor total do financiamento e o valor de cada parcela.</h6>
+<img src="https://user-images.githubusercontent.com/99284224/199880526-7115f5c8-4f22-4655-bce9-51096d731f7f.png" width="280px">
