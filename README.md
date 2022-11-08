@@ -61,3 +61,21 @@ Uns foram feitos em Console e outros em Windows Forms, mas todos no Visual Studi
 
 <h6>➜ <b>Projeto 16:</b> Ler o código, nome, classe e o número de horas em que um determinado funcionário trabalhou. Calcular e imprimir o valor a ser pago ao funcionário.</h6>
 <img src="https://user-images.githubusercontent.com/99284224/199883301-218d943a-4e48-4874-b4fe-756e63dd74fd.png" width="280px">
+
+<h6>➜ <b>Projeto 17:</b> O programa lê os 2 números fornecidos, soma eles e depois analisa se a soma é maior que 20, se for, vai somar mais 8. Se a soma for menor ou igual a 20, vai subtrair 5. E se não, imprime "Esse número não existe".</h6>
+<img src="https://user-images.githubusercontent.com/99284224/200468084-bbde5b4f-6fa4-43ff-8c1e-8a97fc74f66b.png" width="280px">
+
+<h6>➜ <b>Projeto 18:</b> O programa lê o código do produto e a quantidade, depois exibe o total a pagar.</h6>
+<img src="https://user-images.githubusercontent.com/99284224/200468311-6870bb14-2743-4132-942e-d3e5f027d8cb.png" width="280px">
+
+<h6>➜ <b>Projeto 19:</b> O programa lê as horas trabalhadas e as horas extras, e depois exibe o valor das horas extras, o salário bruto, desconto do INSS e o salário líquido.</h6>
+<img src="https://user-images.githubusercontent.com/99284224/200468460-97ab1498-6503-4421-af86-d2b5d06acd9a.png" width="280px">
+
+<h6>➜ <b>Projeto 20:</b> O projeto a seguir, eu já havia feito, mas na nossa aula, usamos ele novamente, mas dessa vez com o intuito de aprender classes. Onde o programa lê a quantidades de camisas e seus respectivos tamanhos e preços, e imprime o valor a ser pago.</h6>
+<img src="https://user-images.githubusercontent.com/99284224/200468890-7baa64cb-497c-4f62-9c74-0d5a2411ccc4.png" width="280px">
+
+<h6>➜ <b>Projeto 21:</b> Saber se o valor é par ou ímpar.</h6>
+<img src="https://user-images.githubusercontent.com/99284224/200469005-7db50df7-54ed-455f-96f1-343c7c847e1a.png" width="280px">
+
+<h6>➜ <b>Projeto 22:</b> Exibir se o valor digitado é positivo, negativo ou zero.</h6>
+<img src="https://user-images.githubusercontent.com/99284224/200469117-2851ef36-118b-4922-b3d7-5428f2675487.png" width="280px">
