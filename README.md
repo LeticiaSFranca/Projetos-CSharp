@@ -79,3 +79,6 @@ Uns foram feitos em Console e outros em Windows Forms, mas todos no Visual Studi
 
 <h6>➜ <b>Projeto 22:</b> Exibir se o valor digitado é positivo, negativo ou zero.</h6>
 <img src="https://user-images.githubusercontent.com/99284224/200469117-2851ef36-118b-4922-b3d7-5428f2675487.png" width="280px">
+
+<h6>➜ <b>Console 04:</b> Aprendendo a programar C# no console - Part. 4.</h6>
+- O código está na área de arquivos -
