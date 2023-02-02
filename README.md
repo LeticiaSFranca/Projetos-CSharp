@@ -2,6 +2,7 @@
 Todos esses projetos aqui publicados, são atividades feitas em sala na matéria de Lógica e Programação.
 Uns foram feitos em Console e outros em Windows Forms, mas todos no Visual Studio.
 
+<h1>- Projeto de Forms -</h1>
 <h6>➜ <b>Projeto 00:</b> Conhecendo o C# de maneira livre.</h6>
 <img src="https://user-images.githubusercontent.com/99284224/199645885-18f85e7f-0531-492d-9d40-0fd1a3c160d0.png" width="280px">
 
@@ -47,15 +48,6 @@ Uns foram feitos em Console e outros em Windows Forms, mas todos no Visual Studi
 <h6>➜ <b>Projeto 14:</b> Aprendendo a criar métodos. Calculando o cubo, par e ímpar, e se é positivo/negativo ou zero.</h6>
 <img src="https://user-images.githubusercontent.com/99284224/199756607-5bb8f880-694e-454c-a390-ccb41e511ce7.png" width="280px">
 
-<h6>➜ <b>Console 01:</b> Aprendendo a programar C# no console - Part. 1.</h6>
-<img src="https://user-images.githubusercontent.com/99284224/199879057-ebaf6c76-db61-46e1-a140-2f0f180b2539.png" width="400px">
-
-<h6>➜ <b>Console 02:</b> Aprendendo a programar C# no console - Part. 2.</h6>
-<img src="https://user-images.githubusercontent.com/99284224/199879510-fab1c675-018e-4673-a815-988ee979b718.png" width="400px">
-
-<h6>➜ <b>Console 03:</b> Aprendendo a programar C# no console - Part. 3.</h6>
-<img src="https://user-images.githubusercontent.com/99284224/199879808-7f6177f2-b701-48ba-8aab-9d0570eb1175.png" width="400px">
-
 <h6>➜ <b>Projeto 15:</b> Ler o valor do veículo adquirido por um cliente da Agência Highcar e o código do plano de pagamento escolhido, conforme a tabela. E calcular o total dos juros cobrados, o valor total do financiamento e o valor de cada parcela.</h6>
 <img src="https://user-images.githubusercontent.com/99284224/199880526-7115f5c8-4f22-4655-bce9-51096d731f7f.png" width="280px">
 
@@ -79,6 +71,17 @@ Uns foram feitos em Console e outros em Windows Forms, mas todos no Visual Studi
 
 <h6>➜ <b>Projeto 22:</b> Exibir se o valor digitado é positivo, negativo ou zero.</h6>
 <img src="https://user-images.githubusercontent.com/99284224/200469117-2851ef36-118b-4922-b3d7-5428f2675487.png" width="280px">
+
+<h1>- Projetos de Console -</h1>
+
+<h6>➜ <b>Console 01:</b> Aprendendo a programar C# no console - Part. 1.</h6>
+<img src="https://user-images.githubusercontent.com/99284224/199879057-ebaf6c76-db61-46e1-a140-2f0f180b2539.png" width="400px">
+
+<h6>➜ <b>Console 02:</b> Aprendendo a programar C# no console - Part. 2.</h6>
+<img src="https://user-images.githubusercontent.com/99284224/199879510-fab1c675-018e-4673-a815-988ee979b718.png" width="400px">
+
+<h6>➜ <b>Console 03:</b> Aprendendo a programar C# no console - Part. 3.</h6>
+<img src="https://user-images.githubusercontent.com/99284224/199879808-7f6177f2-b701-48ba-8aab-9d0570eb1175.png" width="400px">
 
 <h6>➜ <b>Console 04:</b> Aprendendo a programar C# no console - Part. 4.</h6>
 - O código está na área de arquivos -
